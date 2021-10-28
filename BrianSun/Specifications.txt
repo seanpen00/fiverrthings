@@ -1,0 +1,9 @@
+He wants it to look like:
+https://mutantcats.io/
+
+
+NFT name: Mutant Kaijuz
+Token ID: MKJZ
+Supply: 10,000
+NFT limited to users: 25 per user
+Mint price: 0.055 ETH

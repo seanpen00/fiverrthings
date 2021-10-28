@@ -1,0 +1,5 @@
+Name: CryptaRoos
+ID: CROOS
+Total Supply: 5000
+
+"For the minting page I was thinking similar to skulljunkies one you did where it is just all the nfts in the background if thats ok"
